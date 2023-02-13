@@ -29,13 +29,13 @@ Os componenets físicos no nosso mundo computacional são conehcidos como hardwa
 
 ### Pergunta:
 
-Selecione a opção que aborda sobre a parte lógica (software):
+    Selecione a opção que aborda sobre a parte lógica (software):
 
-a- Microprocessadores.
-b- Disco rígido.
-c- Memórias Rams e Rom.
-d- Firefox.
-e- Dispositivos de multimídia(som, vídeo, etc.)
+    a- Microprocessadores.
+    b- Disco rígido.
+    c- Memórias Rams e Rom.
+    d- Firefox.
+    e- Dispositivos de multimídia(som, vídeo, etc.)
 
-Resposta correta é a D.
+    Resposta correta é a D.
 
