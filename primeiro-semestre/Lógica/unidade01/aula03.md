@@ -35,8 +35,8 @@ São basicamneto operações de subtração entre os conjuntos ali do exercício
 Negação:
 símbolo: ~ (equivale a não)
 
-Conjunção
-símbolo: ^(euivale ao e)
+Conjunção:
+símbolo: ^(equivale ao e)
 
 ### Pergunta
 
