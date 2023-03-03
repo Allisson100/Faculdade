@@ -32,7 +32,7 @@ FIGURA 1.0
 
 ### Argumento válido
 
-Para que uma estrutura argumentativa seja considerada válida, é necessário que a conclusãoseja necessariamente verdadeira sempre que todas as premissas também o forem.
+Para que uma estrutura argumentativa seja considerada válida, é necessário que a conclusão seja necessariamente verdadeira sempre que todas as premissas também o forem.
 
 Portanto, em um argumento válido, a veracidade das premissas é incompatível com a falsidade da conclusão.
 
