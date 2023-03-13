@@ -41,7 +41,7 @@ Vale destacar que nem sempre a máxima “amostra boa é amostra grande” é ve
 
 Podemos definir população (ou universo) como um conjunto completo de elementos com um parâmetro comum. 
 
-A população finita tem um número determinado de elementos, enquanto a população infinitanão tem.
+A população finita tem um número determinado de elementos, enquanto a população infinita não tem.
 
 Exemplo: 
 
